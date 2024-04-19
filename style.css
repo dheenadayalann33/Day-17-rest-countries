@@ -1,0 +1,22 @@
+img {
+  height: 250px;
+  width: 250px;
+}
+
+.card {
+  background: linear-gradient(
+    90deg,
+    rgba(197, 219, 223, 1) 0%,
+    rgba(84, 81, 144, 1) 100%,
+    rgba(209, 209, 219, 1) 100%
+  );
+}
+
+#cardTitle{
+    background-color: black;
+    color: white;
+}
+
+p{
+    color: white;
+}
